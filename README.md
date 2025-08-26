@@ -53,6 +53,11 @@ A **Restart button** is included for multiple rounds without restarting the app.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is open-source under the MIT License.
 
+---
+
+## Contributions
+
+Feel free to open issues or submit pull requests for improvements or bug fixes!
 
